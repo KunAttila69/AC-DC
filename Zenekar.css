@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+
+.valami{
+    width: 100%;
+    height: 80vh;
+    background-image:url("képek/acdc.jpg");
+    background-size: cover;
+    background-position-x:center ;
+    background-position-y:top ;
+}
+body{
+    margin: 0%;
+}
+h1{
+    margin: 0%;
+    font-size: 10em;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+table tr td img{
+    width: 100%;
+
+}
+table tr td{
+    width: 20vw;
+
+}
